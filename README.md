@@ -1,0 +1,1 @@
+# ist707-assignment-7-svms-knn-and-random-forest-for-handwriting-recognition-solved
